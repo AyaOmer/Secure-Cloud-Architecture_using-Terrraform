@@ -16,8 +16,9 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 
 #### This project utilizes AWS services, including EC2, Elastic Load Balancers (ELB), and S3 for storing Terraform state files.
 ## Dev Workspace :
-![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/dev_workspace.PNG)
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/workspace.PNG)
+
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/dev_workspace.PNG)
 ## S3 : 
 ![Project Architecture](screenshots/dynamodb.PNG)
 
