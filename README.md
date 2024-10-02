@@ -43,3 +43,9 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 ## SSH to Bastion Host:
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ssh%20to%20public%20ec2.PNG)
 
+# Deploying and Hosting a Website on a Public  EC2 Instance
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/public-load-%20balancer%20website.PNG)
+
+# Deploying and Hosting a Website on a Private  EC2 Instance
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/curl_private_subnet.PNG)
+
