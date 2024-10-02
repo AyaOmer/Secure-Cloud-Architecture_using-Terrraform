@@ -15,7 +15,9 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 -  Private load balancer :  that forwards traffic to the backend EC2 web servers.
 
 #### This project utilizes AWS services, including EC2, Elastic Load Balancers (ELB), and S3 for storing Terraform state files.
-
+## Dev Workspace :
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/dev_workspace.PNG)
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/workspace.PNG)
 ## S3 : 
 ![Project Architecture](screenshots/dynamodb.PNG)
 
@@ -26,10 +28,16 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/subnet.PNG)
 ##  Internet GateWay : 
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/internet%20gateway.PNG)
+##  NAT GateWay : 
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/nat%20gateway.PNG)
+## Route Table : 
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/route%20table.PNG)
 ## EC2 Instances:
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ec2.PNG)
 ## Load Balancers:
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/loadbalancer.PNG)
+
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/target%20group.PNG)
 
 ## SSH to Bastion Host:
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ssh%20to%20public%20ec2.PNG)
