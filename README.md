@@ -20,20 +20,17 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 ![Project Architecture](screenshots/dynamodb.PNG)
 
 ![image](https://github.com/user-attachments/assets/f3e6b71b-7ef8-436b-9a94-9eb392d45318)
-
 ## VPC : 
-
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/vpc.PNG)
-
 ## Subnets : 
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/subnet.PNG)
-
-## GateWay : 
+##  Internet GateWay : 
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/internet%20gateway.PNG)
-
 ## EC2 Instances:
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ec2.PNG)
-
 ## Load Balancers:
-
 ![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/loadbalancer.PNG)
+
+## SSH to Bastion Host:
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ssh%20to%20public%20ec2.PNG)
+
