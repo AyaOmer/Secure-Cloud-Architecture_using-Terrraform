@@ -3,7 +3,7 @@
 This Terraform project is designed to create an infrastructure with multiple EC2 instances and two load balancers, as illustrated in the provided diagram. 
 
 
-![Project Architecture](screenshots/project.png)
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/1.gif)
 
 #### The infrastructure consists of :
 
