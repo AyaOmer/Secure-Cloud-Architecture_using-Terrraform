@@ -15,3 +15,25 @@ This Terraform project is designed to create an infrastructure with multiple EC2
 -  Private load balancer :  that forwards traffic to the backend EC2 web servers.
 
 #### This project utilizes AWS services, including EC2, Elastic Load Balancers (ELB), and S3 for storing Terraform state files.
+
+## S3 : 
+![Project Architecture](screenshots/dynamodb.PNG)
+
+![image](https://github.com/user-attachments/assets/f3e6b71b-7ef8-436b-9a94-9eb392d45318)
+
+## VPC : 
+
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/vpc.PNG)
+
+## Subnets : 
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/subnet.PNG)
+
+## GateWay : 
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/internet%20gateway.PNG)
+
+## EC2 Instances:
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/ec2.PNG)
+
+## Load Balancers:
+
+![image](https://github.com/AyaOmer/Secure-Cloud-Architecture_using-Terrraform/blob/master/screenshots/loadbalancer.PNG)
